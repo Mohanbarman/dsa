@@ -16,8 +16,8 @@
 - [x] Minimum Window Substring [Leetcode #76](https://leetcode.com/problems/minimum-window-substring/description/)
 
 ## Fast & Slow Pointers
-- [ ] Linked List Cycle [LeetCode #141](https://leetcode.com/problems/linked-list-cycle/description/)
-- [ ] Happy Number [LeetCode #202](https://leetcode.com/problems/happy-number/description/)
+- [x] Linked List Cycle [LeetCode #141](https://leetcode.com/problems/linked-list-cycle/description/)
+- [x] Happy Number [LeetCode #202](https://leetcode.com/problems/happy-number/description/)
 - [ ] Find the Duplicate Number [LeetCode #287]()
 
 ## LinkedList In-Place Reversal
